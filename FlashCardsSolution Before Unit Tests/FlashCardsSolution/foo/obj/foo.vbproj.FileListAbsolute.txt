@@ -1,0 +1,5 @@
+C:\Course933\FlashCardsSolution\FlashCardsSolution\foo\bin\Debug\foo.exe
+C:\Course933\FlashCardsSolution\FlashCardsSolution\foo\bin\Debug\foo.pdb
+C:\Course933\FlashCardsSolution\FlashCardsSolution\foo\obj\Debug\ResolveAssemblyReference.cache
+C:\Course933\FlashCardsSolution\FlashCardsSolution\foo\obj\Debug\foo.exe
+C:\Course933\FlashCardsSolution\FlashCardsSolution\foo\obj\Debug\foo.pdb

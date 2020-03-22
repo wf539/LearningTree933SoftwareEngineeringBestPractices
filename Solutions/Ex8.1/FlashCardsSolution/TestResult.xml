@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Course933\Solutions\Ex8.1\FlashCardsSolution\FlashCardsTests\bin\Debug\FlashCardsTests.dll" total="9" failures="0" not-run="0" date="2008-08-07" time="17:48:09">
+  <environment nunit-version="2.4.2.0" clr-version="2.0.50727.42" os-version="Microsoft Windows NT 5.1.2600 Service Pack 2" platform="Win32NT" cwd="C:\Course933\Solutions\Ex8.1\FlashCardsSolution" machine-name="INSTRUCTOR" user="Student" user-domain="INSTRUCTOR" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite name="C:\Course933\Solutions\Ex8.1\FlashCardsSolution\FlashCardsTests\bin\Debug\FlashCardsTests.dll" success="True" time="0.234" asserts="0">
+    <results>
+      <test-suite name="FlashCardsTests" success="True" time="0.219" asserts="0">
+        <results>
+          <test-suite name="AdditionFlashCardTests" success="True" time="0.172" asserts="0">
+            <results>
+              <test-case name="FlashCardsTests.AdditionFlashCardTests.CorrectAnswerTest" executed="True" success="True" time="0.156" asserts="0" />
+              <test-case name="FlashCardsTests.AdditionFlashCardTests.CreationTest" executed="True" success="True" time="0.000" asserts="0" />
+              <test-case name="FlashCardsTests.AdditionFlashCardTests.RandomNumbersTest" executed="True" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite name="SpellingFlashCardTests" success="True" time="0.031" asserts="0">
+            <results>
+              <test-case name="FlashCardsTests.SpellingFlashCardTests.CorrectanswerTest" executed="True" success="True" time="0.031" asserts="0" />
+              <test-case name="FlashCardsTests.SpellingFlashCardTests.CreationTest" executed="True" success="True" time="0.000" asserts="0" />
+              <test-case name="FlashCardsTests.SpellingFlashCardTests.MessageTest" executed="True" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+          <test-suite name="SubtractionFlashCardTests" success="True" time="0.000" asserts="0">
+            <results>
+              <test-case name="FlashCardsTests.SubtractionFlashCardTests.CorrectanswerTest" executed="True" success="True" time="0.000" asserts="0" />
+              <test-case name="FlashCardsTests.SubtractionFlashCardTests.CreationTest" executed="True" success="True" time="0.000" asserts="0" />
+              <test-case name="FlashCardsTests.SubtractionFlashCardTests.RandomNumbersTest" executed="True" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

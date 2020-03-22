@@ -1,0 +1,55 @@
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.exe
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.pdb
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Useful.dll
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Parser.dll
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Compiler.dll
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.dll
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.booproj.GenerateResource.Cache
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.exe
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.pdb
+C:\FlashCardsSolution\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.GameForm.resources
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.exe
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Useful.dll
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Parser.dll
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Compiler.dll
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.dll
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.GameForm.resources
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.booproj.GenerateResource.Cache
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.exe
+C:\Course933\FlashCardsSolution Before Database\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.pdb
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.exe
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Useful.dll
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Parser.dll
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Compiler.dll
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.dll
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.GameForm.resources
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.booproj.GenerateResource.Cache
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.exe
+C:\Course933\Solutions\Ex6.4\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.pdb
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.exe
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Useful.dll
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Parser.dll
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Compiler.dll
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.dll
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.GameForm.resources
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.booproj.GenerateResource.Cache
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.exe
+C:\Course933\Solutions\Ex6.5\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.pdb
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.exe
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\bin\Debug\FlashCards.pdb
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Useful.dll
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Parser.dll
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.Compiler.dll
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\bin\Debug\Boo.Lang.dll
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\obj\Debug\ResolveAssemblyReference.cache
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.GameForm.resources
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.booproj.GenerateResource.Cache
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.exe
+C:\Course933\Solutions\Ex7.1\FlashCardsSolution\FlashCards\obj\Debug\FlashCards.pdb
